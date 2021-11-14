@@ -15,7 +15,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'San Fran - I want the Stafford St Flat',
-            image: 'https://raw.githubusercontent.com/Jo-Malo/Jo-Malo.github.io/c58278864d50417ac94b8cab132a6521c5fda8b7/images/target.svg',
+            image: '/images/target.svg',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
             location: {
                 center: [-122.418398, 37.759483],
@@ -45,7 +45,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Edinburgh - I want another pet',
-            image: '/Users/jomalo/Downloads/storytelling-main/src/images/target.svg',
+            image: '/images/target.svg',
             description: 'Maybe the pet can come from over here.',
             location: {
                 center: [-3.19410, 55.95204],
